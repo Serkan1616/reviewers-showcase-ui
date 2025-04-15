@@ -1,12 +1,14 @@
-# React + Vite
+# 📝 Reviewers Showcase UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive React component built with Tailwind CSS. The layout adapts smoothly across screen sizes (mobile, tablet, and desktop).
 
-Currently, two official plugins are available:
+## 📸 Preview
+![video](https://github.com/user-attachments/assets/e38eeede-946c-468a-9ed1-72e8baaf728f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Tailwind CSS
+- SVG/PNG assets
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
